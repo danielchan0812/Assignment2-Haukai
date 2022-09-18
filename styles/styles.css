@@ -4,7 +4,7 @@
 }
 /* Set the size of the body */
 body {
-  width: 600px;
+  width: 95%;
 }
 /* Style the header */
 .header {
@@ -39,7 +39,7 @@ body {
     clear: both;
 }
 .footer {
-    background-color: yellow;
+    background-color: rgb(98, 0, 255);
     text-align: center;
     padding: 10px;
 }
