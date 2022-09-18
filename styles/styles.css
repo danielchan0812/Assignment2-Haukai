@@ -4,22 +4,22 @@
 }
 /* Set the size of the body */
 body {
-  width: 95%;
+  width: 99%;
 }
 /* Style the header */
 .header {
-    background-color:green;
+    background-color:rgba(243, 233, 230, 0.732);
     text-align: center;
     padding: 20px;
 }
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: black;
+    background-color: rgb(38, 37, 37);
 }
 /* Style the topnav links */
 .topnav a {
-    float: left;
+    float: center;
     display: block;
     color: white;
     text-align: center;
@@ -28,9 +28,9 @@ body {
 /* Create two equal columns that float next to each other */
 .column {
     float: left;
-    width: 300px;
+    width: 99%;
     padding: 15px;
-    background-color: yellow;
+    background-color: hsl(60, 53%, 77%);
 }
 /* Clear floats after the columns */
 .row:after {
@@ -39,7 +39,7 @@ body {
     clear: both;
 }
 .footer {
-    background-color: rgb(98, 0, 255);
+    background-color: rgb(15, 15, 16);
     text-align: center;
     padding: 10px;
 }
