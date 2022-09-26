@@ -21,7 +21,7 @@ body {
       overflow: hidden;
       background-color: rgb(134, 132, 137);
       font-style: normal;
-      font-size: 4vw;
+      font-size: 3vw;
       text-align: center;
   }
   
@@ -130,7 +130,7 @@ form input[type = submit]:hover{
     padding: 100px;
     background-color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 2vw;
+    font-size: 3vw;
 }
 /* Clear floats after the columns */
 .row:after {
