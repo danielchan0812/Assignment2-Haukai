@@ -12,7 +12,7 @@ body {
   .header {
       background-color:rgb(245, 249, 245);
       font-style: italic;
-      font-size: 3vw;
+      font-size: 4vw;
       text-align: center;
       padding: 0.5vw;
   }
@@ -21,7 +21,7 @@ body {
       overflow: hidden;
       background-color: rgb(134, 132, 137);
       font-style: normal;
-      font-size: 2vw;
+      font-size: 4vw;
       text-align: center;
   }
   
