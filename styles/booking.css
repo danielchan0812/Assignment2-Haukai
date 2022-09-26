@@ -141,10 +141,10 @@ form input[type = submit]:hover{
 
 
 
-@media(max-width: 995px){
+@media(min-width: 500px){
     .card-container{
         grid-template-columns: 100%;
-        width: 100vw;
+        width: 4vw;
     }
     .card-img{
         height: 330px;
