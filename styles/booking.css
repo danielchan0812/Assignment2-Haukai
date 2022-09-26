@@ -57,7 +57,7 @@ body{
  /* Style the homepage banner */
 
  .Signature{
-    min-height: 100vh;
+    min-height: 80vh;
     max-height: 100vh;
     background: url("HomePage3.jpg") center/cover no-repeat;
     display: flex;
@@ -130,7 +130,7 @@ form input[type = submit]:hover{
     padding: 100px;
     background-color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 2vw;
+    font-size: 4vw;
 }
 /* Clear floats after the columns */
 .row:after {
@@ -154,7 +154,7 @@ form input[type = submit]:hover{
     background-color: rgb(48, 48, 46);
     text-align: left;
     padding: 0.1vw;
-    font-size: 1vw;
+    font-size: 2vw;
     font-style: italic;
     color: azure;
 }
