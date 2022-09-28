@@ -139,6 +139,11 @@ form input[type = submit]:hover{
     clear: both;
 }
 
+@media screen and (max-width: 767px){
+					html, body {
+ overflow-x: hidden! important;
+}
+
 
 @media(max-width: 995px){
     .card-container{
