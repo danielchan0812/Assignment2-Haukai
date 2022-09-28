@@ -140,7 +140,6 @@ form input[type = submit]:hover{
 }
 
 
-
 @media(max-width: 995px){
     .card-container{
         grid-template-columns: 100%;
