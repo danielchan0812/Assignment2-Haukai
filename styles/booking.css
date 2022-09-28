@@ -139,6 +139,10 @@ form input[type = submit]:hover{
     clear: both;
 }
 
+.secc2{
+    -webkit-overflow-scrolling: touch !important;
+    overflow: scroll !important;
+}
 
 
 @media(max-width: 995px){
